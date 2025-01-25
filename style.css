@@ -182,19 +182,6 @@ text-align: left;
 }    
 
 
-
-
-
-
-
-
-
-
-
-
-  
-  
-
   .page {
     height: 100vh; 
     display: flex;
@@ -205,8 +192,6 @@ text-align: left;
     text-align: center;
     scroll-snap-align: start;
 }
-
-
 
 #page2 {
     background-color: #FFFFFF;
