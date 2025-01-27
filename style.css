@@ -60,8 +60,8 @@ header {
 .search-bar input {
     margin-left: -350px; 
 
-    width: 300px; /* Ширина поля */
-    height: 25px; /* Высота поля */
+    width: 300px; 
+    height: 25px; 
     padding: 8px 10px; 
     padding-left: 40px; 
     border: 1px solid #ccc;
@@ -91,26 +91,6 @@ header {
 .search-bar .search-icon:hover {
     color: #000; 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
