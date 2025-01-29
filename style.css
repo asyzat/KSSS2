@@ -299,3 +299,43 @@ margin-bottom: 20px
     width: 100%;     
     height: 400px; 
 }
+
+
+
+
+
+
+
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 0px;
+}
+
+.block {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dark {
+    background: #083001;
+    color: white;
+}
+
+.green {
+    
+    color:  #083001;
+    background: FFFFFF;
+}
+
+img {
+    width: 100%;
+    
+    height: auto;
+    object-fit: cover;
+}
