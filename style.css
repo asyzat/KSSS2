@@ -300,7 +300,11 @@ margin-bottom: 20px
     height: 400px; 
 }
 
-
+#page {
+    background-color: #ffffff;
+    width: 100%;     
+    height: 400px; 
+}
 
 
 
